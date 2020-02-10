@@ -2,7 +2,9 @@ rencana konten caridi
 -javascript
   *ES6
   *framwork javascript
- -struktur data dasar
+   ^angular
+   ^react
 -php framworks
+   ^laravel
 -interview
 -vlogs
